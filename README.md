@@ -1,4 +1,5 @@
 About Me
+
 👋 Hello there! I'm Jordan, a software developer with a keen interest in data analysis and building useful tools. Welcome to my GitHub profile!
 
 🔧 As a developer, I spend time exploring and creating innovative solutions that leverage data to gain insights and solve real-world problems. I enjoy the entire process of transforming raw data into meaningful information, from data wrangling and cleaning to analysis and visualization.
