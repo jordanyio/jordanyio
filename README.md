@@ -8,7 +8,7 @@ $$ About Me $$
 
 💡 On my GitHub, you'll find a collection of projects that I have worked on during my academic and peronal endeavors. These projects showcase my skills in data analysis, programming, and problem-solving. I'm a firm believer in open-source collaboration and sharing knowledge, so I'm thrilled to share my projects and contribute to the developer community.
 
-⚙️ Some of the tools and technologies I frequently work with include Python, R, SQL, Jupyter Notebooks, and various data analysis libraries. I'm always eager to explore new frameworks and languages that can enhance my development capabilities.
+⚙️ Some of the tools and technologies I frequently work with include Python, Java, R, C++, SQL, Jupyter Notebooks, and various data analysis libraries. I'm always eager to explore new frameworks and languages that can enhance my development capabilities.
 
 🌱 Besides data analysis, I'm continuously learning and expanding my skill set to become a well-rounded developer. I'm enthusiastic about staying up-to-date with the latest industry trends, exploring new technologies, and embracing new challenges.
 
