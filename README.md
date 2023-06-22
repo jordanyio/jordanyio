@@ -1,4 +1,4 @@
-About Me
+$$ About Me $$
 
 👋 Hello there! I'm Jordan, a software developer with a keen interest in data analysis and building useful tools. Welcome to my GitHub profile!
 
